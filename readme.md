@@ -7,5 +7,8 @@
     	'commands' => [
     		'xack' => '\MissingPredis\XACK',
     		'xgroupdestroy' => '\MissingPredis\XGROUPDESTROY',
+    		'xgroupdelconsumer' => '\MissingPredis\XGROUPDELCONSUMER',
+    		'xinfoconsumers' => '\MissingPredis\XINFOCONSUMERS',
+    		'xinfogroups' => '\MissingPredis\XINFOGROUPS',
     	],
     ]);
