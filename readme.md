@@ -10,5 +10,6 @@
     		'xgroupdelconsumer' => '\MissingPredis\XGROUPDELCONSUMER',
     		'xinfoconsumers' => '\MissingPredis\XINFOCONSUMERS',
     		'xinfogroups' => '\MissingPredis\XINFOGROUPS',
+    		'xpending' => '\MissingPredis\XPENDING',
     	],
     ]);
